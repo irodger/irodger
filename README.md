@@ -1,6 +1,6 @@
-![irodger's GitHub stats](https://github-readme-stats.vercel.app/api?username=irodger&theme=dracula&show_icons=true&count_private=true&hide=contribs)
+[![irodger's GitHub stats](https://github-readme-stats.vercel.app/api?username=irodger&theme=dracula&show_icons=true&count_private=true&hide=contribs)](https://github.com/irodger)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irodger&layout=compact&theme=dracula&hide=php)](https://github.com/irodger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irodger&layout=compact&theme=dracula&hide=php)](https://github.com/irodger)
 
 <!--
 **irodger/irodger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
