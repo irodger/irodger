@@ -1,4 +1,6 @@
-### Hi there 👋
+![irodger's GitHub stats](https://github-readme-stats.vercel.app/api?username=irodger&theme=gruvbox&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irodger&layout=compact&theme=gruvbox&hide=Makefile)](https://github.com/irodger/github-readme-stats)
 
 <!--
 **irodger/irodger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
